@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="extension-icon.png" alt="Extension Icon" width="100px">
-</p>
 
 # ChatGPT Interface Enhancer 🚀
 
